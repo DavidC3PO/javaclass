@@ -2,8 +2,8 @@
 /**
  * Converts Celsius to Fahrenheit.
  *
- * @author (David Kirchhoff)
- * @version (10-8-2021)
+ * @author
+ * @version
  */
 public class centigrade
 {
